@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular8-blogs": {
+      "hosting": {
+        "ngx-pagination-demo": [
+          "angular8-blogs"
+        ]
+      }
+    }
+  }
+}
