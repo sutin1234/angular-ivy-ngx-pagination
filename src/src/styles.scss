@@ -1,0 +1,16 @@
+.paginations {
+  .ngx-pagination {
+  .current {
+    background-color: red;
+    a {
+    color: #fff;
+    }
+  }
+  .pagination-next {
+    background-color: blue;
+    a {
+    color: #fff;
+    }
+  }
+}
+}
